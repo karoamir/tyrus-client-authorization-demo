@@ -1,0 +1,4 @@
+replace the url and token values in the constants below addand run
+
+private static final String WEBSOCKET_ENDPOINT_URL = "PUT_URL_HERE";
+private static final String BEARER_TOKEN_VALUE = "PUT_BEARER_TOKEN_VALUE_HERE";
